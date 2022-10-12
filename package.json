@@ -1,0 +1,9 @@
+{
+  "name": "editorconfig-jv",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".editorconfig",
+  "scripts": { },
+  "author": "",
+  "license": "ISC"
+}
